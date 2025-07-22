@@ -1,0 +1,1 @@
+Welcome to ShopyCart, a fully functional and responsive eCommerce shopping cart application built with modern web technologies. This project is designed to provide a smooth and intuitive online shopping experience for users, featuring dynamic product display, cart management, user authentication, order tracking, and more.
